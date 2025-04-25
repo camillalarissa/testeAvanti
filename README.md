@@ -1,3 +1,59 @@
+# 🚀 Teste -  Busca de Perfil no GitHub
+
+## 📝 Objetivo
+
+Este projeto foi desenvolvido como parte de um **teste técnico** com o objetivo de criar uma aplicação em **React** capaz de buscar perfis do GitHub e exibir informações do usuário, conforme o layout fornecido no Figma.
+
+---
+
+## 💻 Tecnologias Utilizadas
+
+- React
+- JavaScript (ES6+)
+- Bootstrap 
+- GitHub REST API
+
+---
+
+## ⚙️ Funcionalidades
+
+- Campo de busca para digitar o nome de um usuário do GitHub
+- Consumo da API pública do GitHub
+- Exibição das informações:
+  - Nome do usuário
+  - Foto de perfil
+  - Bio
+- Mensagem de erro caso o perfil não seja encontrado
+- Layout responsivo, baseado no design do Figma
+- Animação de loading enquanto busca as informações
+
+---
+
+## 📌 Observações
+
+- Este projeto foi uma excelente oportunidade de praticar integração com APIs públicas usando React.
+- Tive alguns desafios técnicos, especialmente com manipulação de estados e tratamento de erros, mas aproveitei para estudar e resolver cada ponto com paciência.
+- Mesmo com dificuldades, fiz o meu melhor com o tempo disponível e estou aberta a feedbacks para continuar evoluindo como desenvolvedora.
+  
+<p align="center">Feito com ❤️ por <strong>Camila Larissa</strong> ✨</p>
+
+## 📦 Como executar o projeto
+
+```bash
+# Clone o repositório
+git clone https://github.com/camillalarissa/NOMEDOREPO.git
+
+# Acesse a pasta do projeto
+cd NOMEDOREPO
+
+# Instale as dependências
+npm install
+
+# Rode o projeto
+npm start
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
